@@ -1,24 +1,23 @@
 # Einführung
 Datum: 24.10.2016
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Einführung](#einführung)
-	- [Referent: Dr. Wolfgang Mousiol](#referent-dr-wolfgang-mousiol)
-	- [Inhalt](#inhalt)
-	- [Literatur](#literatur)
-	- [Fach](#fach)
-	- [Ursprünge](#ursprünge)
-		- [Griechenland](#griechenland)
-		- [Mittelalter](#mittelalter)
-		- [Heute](#heute)
-	- [Interpretation des Betriebsbegriffes (nach Gutenberg)](#interpretation-des-betriebsbegriffes-nach-gutenberg)
-		- [Der Betrieb ist ein geistiges und soziologisches Phänomen.](#der-betrieb-ist-ein-geistiges-und-soziologisches-phänomen)
-		- [Der Betrieb ist eine Wirtschaftseinheit.](#der-betrieb-ist-eine-wirtschaftseinheit)
-		- [Der Betrieb ist eine technische Einheit.](#der-betrieb-ist-eine-technische-einheit)
-		- [Der Betrieb ist eine Produktionseinheit.](#der-betrieb-ist-eine-produktionseinheit)
-	- [Unternehmung ist ein System](#unternehmung-ist-ein-system)
-	- [Bedürfnislehre](#bedürfnislehre)
+- [Referent: Dr. Wolfgang Mousiol](#referent-dr-wolfgang-mousiol)
+- [Inhalt](#inhalt)
+- [Literatur](#literatur)
+- [Fach](#fach)
+- [Ursprünge](#ursprünge)
+	- [Griechenland](#griechenland)
+	- [Mittelalter](#mittelalter)
+	- [Heute](#heute)
+- [Interpretation des Betriebsbegriffes (nach Gutenberg)](#interpretation-des-betriebsbegriffes-nach-gutenberg)
+	- [Der Betrieb ist ein geistiges und soziologisches Phänomen.](#der-betrieb-ist-ein-geistiges-und-soziologisches-phänomen)
+	- [Der Betrieb ist eine Wirtschaftseinheit.](#der-betrieb-ist-eine-wirtschaftseinheit)
+	- [Der Betrieb ist eine technische Einheit.](#der-betrieb-ist-eine-technische-einheit)
+	- [Der Betrieb ist eine Produktionseinheit.](#der-betrieb-ist-eine-produktionseinheit)
+- [Unternehmung ist ein System](#unternehmung-ist-ein-system)
+- [Bedürfnislehre](#bedürfnislehre)
 
 <!-- /TOC -->
 
