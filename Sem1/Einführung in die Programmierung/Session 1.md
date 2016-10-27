@@ -58,7 +58,7 @@ Ein Algorithmus ist eine präzise (d. h. in einer festgelegten Sprache abgefasst
 
 ### Bestandteile
 * Elementare Operationen (z. B. *Berechne 6 plus 7*)
-* Sequenzielle Ausführung (z. B. *Berechne 11 minus 3, dann multipliziere das Ergebnis mit 4*)
+* Sequenzielle Ausführung (z. B. *Berechne 11	 minus 3, dann multipliziere das Ergebnis mit 4*)
 * Parallele Ausführung (z. B. *Du rechnest Aufgabe 1 und ich rechne Aufgabe 2*)
 * Bedingte Ausführung (z. B. *Wenn du Aufgabe 1 gelöst hast, dann beginne ich mit Aufgabe 2*)
 * Schleifen (z. B. *Rechne Aufgabe 1, bis du das richtige Ergebnis bekommst*)
