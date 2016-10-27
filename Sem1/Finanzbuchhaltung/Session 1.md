@@ -32,7 +32,7 @@ Industriebuchführung mit Kosten- und Leistungsrechnung IKR. Schmolke/Deitermann
 
 ## Begriffe
 * Ausgaben
-  * Buchhaltung: Aufwendungen
+  * Buchhaltung: Aufwändungen
   * KLR: Kosten
 * Buchhaltung/-führung
   * Finanzbuchhaltung: Abteilung
