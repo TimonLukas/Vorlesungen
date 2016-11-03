@@ -1,7 +1,7 @@
 # Einführung
 
 ## Referent
-?
+Mathias Leity
 
 ## Wirtschaftsinformatik
 * ist interdisziplinär
