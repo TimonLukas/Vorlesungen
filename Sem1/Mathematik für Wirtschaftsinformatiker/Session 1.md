@@ -87,9 +87,9 @@ $f$ heißt **injektiv (eineindeutig)**, falls für alle $x1, x2 \in M$ aus $f(x_
 ### Beispiel
 $M = \{1, 2, 3\}$ $N = \{A, B, C\}$
 
-$f(1) = A$ | $g(1) = C$
-$f(2) = B$ | $g(2) = B$
-$f(3) = A$ | $g(3) = A$
+$f(1) = A$ | $g(1) = C$  
+$f(2) = B$ | $g(2) = B$  
+$f(3) = A$ | $g(3) = A$  
 ~~injektiv~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; injektiv
 
 ### Bemerkung
@@ -117,14 +117,14 @@ Allgemein lassen sich Polynome wie folgt darstellen:
 $$P(x) = \sum_{i = 0}^n a_i x^i = \prod_{k = 1}^{m_1} (b_k - x) * \prod_{k = 1}^{m_2} (x^2 - c_k x - d_k)$$
 Wobei die Polynome $x^2 - c_k x - d_k$ keine Nebenstellen haben.
 
-### Beispiele Produktsummen:
+### Beispiele Produktsummen
 $$
 \begin{align}
 & \prod_{k = 1}^n a_k = a_1 * a_2 * \ldots * a_n \\
 & \prod_{k = 1}^5 k = 1 * 2 * 3 * 4 * 5 = 120 \\
 & \prod_{k = 2}^7 2 = 2 * 2 * 2 * 2 * 2 * 2 = \ldots
-\end{align}$$
-
+\end{align}
+$$
 ### Numerische Verfahren
 #### Intervallschachtelung (Bisektionsverfahren)
 Grafik 1
@@ -178,7 +178,7 @@ $$x_{k + 1} = x_k - f(x_k) * \frac{x_k - x_{k - 1}}{f(x_k) - f(x_{k - 1})}$$
 #### Newtonverfahren
 Grafik 3
 
-1. Gehe von $x_0, f(x_0)$ aus und bestimme $f'(x_0)$
+1. Gehe von $(x_0, f(x_0))$ aus und bestimme $f'(x_0)$
 2. Konstruiere die Tangente an $(x_0, f(x_0))$
 $$t_0(x) = f'(x_0) * (x - x_0) + f(x_0)$$
 3. Bestimme $x_1$ über
