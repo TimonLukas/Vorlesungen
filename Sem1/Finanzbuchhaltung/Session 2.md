@@ -2,7 +2,7 @@
 
 ## Unterschiede Bilanz & Inventar
 | Bilanz                      | Inventar                   |
-|----------------------------------------------------------|
+|-----------------------------|----------------------------|
 |Kontenform                   |Tabellenform                |
 |Zusammengefasste Darstellung |Ausführliche Darstellung    |
 |Wertmäßig                    |Mengen- und wertmäßig       |
@@ -21,6 +21,6 @@ Buchungssatz: Soll an Haben
 * Konten: Kasse, Bank
 
 |      | Soll   | Haben  |
-|------------------------|
+|------|--------|--------|
 |Bank  |2.000,00|        |
 |Kasse |        |2.000,00|

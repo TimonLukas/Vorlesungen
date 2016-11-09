@@ -462,7 +462,7 @@ Vorher definierten Zielgruppen aktiv Angebote unterbreiten, die diesen helfen, i
 
 #### Stationärer Handel vs. Direktvertrieb
 |Handel|Direktvertrieb|
-|---------------------|
+|------|--------------|
 |Hohe Investitionskosten|Geringe Investitionskosten|
 |Hohe Lagerkosten|Keine Lagerkosten|
 |Hohe Fixkosten (Miete/Pacht, Nebenkosten, Personalkosten)|Geringe Fixkosten|
@@ -490,7 +490,7 @@ Vorher definierten Zielgruppen aktiv Angebote unterbreiten, die diesen helfen, i
 
 #### CRM
 |Determinanten des CRM|Ziele des CRM|
-|-----------------------------------|
+|---------------------|-------------|
 |**Ganzheitlich**: keine Insellösungen|Steigerung der Kundenbindung|
 |**Wirtschaftlichkeitsorientierung**: Kundensegmentierung per Customer Lifetime Value|Erhöhung der Kundenprofitabilität|
 |**Beziehungsorientierung**: Aufbau langfristig, profitabler Kundenbeziehungen|Wettbwerbsvorteile durch erhöhte Kundenbindung|
