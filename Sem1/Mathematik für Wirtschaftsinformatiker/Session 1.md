@@ -9,7 +9,7 @@
 - [Mengen](#mengen)
 	- [Definition](#definition)
 	- [Beispiel](#beispiel)
-- [Injektiv, Sujektiv](#injektiv-sujektiv)
+- [Injektiv, Surjektiv](#injektiv-surjektiv)
 	- [Definition](#definition)
 	- [Formal](#formal)
 	- [Beispiel](#beispiel)
@@ -72,16 +72,16 @@ das Urbild von $y$ in $M$ unter $f$.
 $$M = \{1, 2, 3\}$$$$N = \{1, 2, \ldots, 10\}$$$$f(x) = x^2$$$$\color{red}{f(M) = \{1, 4, 9\}}$$
 $$y = \{1, 9\}$$$$x = \{1, 2, 3\}$$
 
-## Injektiv, Sujektiv
+## Injektiv, Surjektiv
 
 ### Definition
 Seien $M, N$ zwei beliebige nicht leere Mengen und $f: M \to N$ eine Funktion.  
-Dann heißt $f$ **sujektiv**, falls es zu jedem $y$ ein $x \in M$ gibt mit $f(x) = y$.
+Dann heißt $f$ **surjektiv**, falls es zu jedem $y$ ein $x \in M$ gibt mit $f(x) = y$.
 
 $f$ heißt **injektiv (eineindeutig)**, falls für alle $x1, x2 \in M$ aus $f(x_1) = f(x_2)$ schon $x_1 = x_2$ folgt.
 
 ### Formal
-* Sujektiv: $$\forall \; y \in N \; \exists \; x \in M : f(x) = y$$
+* Surjektiv: $$\forall \; y \in N \; \exists \; x \in M : f(x) = y$$
 * Injektiv: $$\forall \; x_1, x_2 \in M : f(x_1) = f(x_2) \Rightarrow x_1 = x_2$$
 
 ### Beispiel
@@ -93,7 +93,7 @@ $f(3) = A$ | $g(3) = A$
 ~~injektiv~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; injektiv
 
 ### Bemerkung
-Funktionen, die **injektiv** und **sujektiv** sind, heißen **bijektiv**.  
+Funktionen, die **injektiv** und **surjektiv** sind, heißen **bijektiv**.  
 Eine **reelle Funktion** ist eine Funktion, bei der $M, N$ die reellen Zahlen ($\mathbb{R} $) sind.
 
 ## 1.1 Polynome und Nullstellen

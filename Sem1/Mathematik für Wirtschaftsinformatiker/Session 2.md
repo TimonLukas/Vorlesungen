@@ -55,7 +55,7 @@ $\Leftrightarrow 100 < n$
 $\Rightarrow N = 101$
 
 Beweis der Konvergenz gegen $a = 0$.  
-Sei $\epsilon > 0$ beliebig aber fest. Dan gilt für $N = $, für alle $n > N$
+Sei $\epsilon > 0$ beliebig aber fest. Dann gilt für $N = $, für alle $n > N$
 $$
 \begin{align}
 \lvert a_n - a \rvert = \lvert \frac{1}{n} - 0 \rvert & = \frac{1}{n} < \epsilon \qquad | * \frac{1}{\epsilon} * n \\
