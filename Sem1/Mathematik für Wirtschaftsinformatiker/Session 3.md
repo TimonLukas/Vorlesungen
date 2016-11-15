@@ -19,6 +19,8 @@
 - [2.2 Reihen](#22-reihen)
 	- [Beispiele](#beispiele)
 	- [Definition](#definition)
+	- [Satz](#satz)
+		- [Skizze](#skizze)
 	- [Beispiele](#beispiele)
 		- [Geometrische Reihe](#geometrische-reihe)
 			- [Behauptung](#behauptung)
@@ -150,6 +152,30 @@ Sei $(a_k)$ eine Folge reeller Zahlen.
 Die Folge $A_n := \sum_{k = 0}^{n} a_k$ heißt **Folge der Partialsummen** oder **Reihe**.  
 Die Reihe heißt **konvergent**, falls dies für die Folge der Partialsummen gilt.  
 Ansonsten heißt sie **divergent**.
+### Satz
+Eine Reihe $\sum_{k = 0}^{\infty} a_k$ ist konvergent, wenn es ein $q < 1$ gibt mit
+$$
+\lvert \frac{a_{k + 1}}{a_k} \rvert \leq q \qquad \text{für fast alle $k \in \mathbb{N}$}
+$$
+Sie ist divergent, wenn es ein $q > 1$ gibt mit
+$$
+\lvert \frac{a_{k + 1}}{a_k} \rvert \geq q \qquad \text{für fast alle $k \in \mathbb{N}$}
+$$
+"Für fast alle" $:=$ Alle bis auf endlich viele Ausnahmen
+#### Skizze
+$$
+\sum_{k = 0}^{\infty} a_k
+$$
+Es gibt ein $N \in \mathbb{N}$
+$$
+\begin{align}
+&\lvert \frac{a_{k + 1}}{a_k} \rvert \leq q \qquad \forall \; k \geq N \\
+&\sum_{k = 0}{N} a_k + \sum_{k = N + 1}^{\infty} a_k \stackrel{\text{siehe unten}}{\leq} \sum_{k = 0}^{\infty} a_k + \sum_{k = N + 1}^{\infty} q^{k - N} * a_N \\
+&a_{N + 1} = \frac{a_{N + 1}}{a_N} * a_N \\
+&a_{N + 2} = \frac{a_{N + 2}}{a_{N + 1}} * {a_{N + 1}}{a_N} * a_N \leq q * q * a_N \\
+&a_{N + 5} = \frac{a_{N + 5}}{a_{N + 4}} * \ldots * \frac{a_{N + 1}}{a_N} * a_N \leq q^5 * a_N
+\end{align}
+$$
 ### Beispiele
 #### Geometrische Reihe
 $$
