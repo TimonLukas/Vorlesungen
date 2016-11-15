@@ -1,3 +1,5 @@
+# Session 2
+
 <!-- TOC depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [1.2 Ökonomische Anwendungen](#12-ökonomische-anwendungen)
