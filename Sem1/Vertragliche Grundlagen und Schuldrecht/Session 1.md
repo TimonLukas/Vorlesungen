@@ -3,6 +3,13 @@
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Referent](#referent)
+- [Recht](#recht)
+- [Verträge](#verträge)
+- [Recht](#recht)
+- [Funktionen](#funktionen)
+- [Versicherungen](#versicherungen)
+- [BGB](#bgb)
+- [Eigentumsrecht](#eigentumsrecht)
 
 <!-- /TOC -->
 
