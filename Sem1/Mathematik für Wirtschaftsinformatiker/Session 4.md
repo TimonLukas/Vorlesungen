@@ -1,5 +1,29 @@
 # Session 4
 
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Aufgaben](#aufgaben)
+	- [Aufgabe 1](#aufgabe-1)
+		- [1](#1)
+	- [Aufgabe 4](#aufgabe-4)
+		- [2](#2)
+- [Quotientenkriterium](#quotientenkriterium)
+	- [Motivation des Quotientenkriteriums](#motivation-des-quotientenkriteriums)
+		- [Geometrische Reihe](#geometrische-reihe)
+- [3. Grenzwerte und Stetigkeit](#3-grenzwerte-und-stetigkeit)
+	- [3.1 Grenzwerte](#31-grenzwerte)
+		- [Definition](#definition)
+		- [Beispiele](#beispiele)
+			- [1.](#1)
+			- [2.](#2)
+			- [3.](#3)
+			- [4.](#4)
+		- [Linksseitiger Grenzwert $f_{G,L}(a)$](#linksseitiger-grenzwert-fgla)
+		- [Rechtsseitiger Grenzwert $f_{G,R}(a)$](#rechtsseitiger-grenzwert-fgra)
+		- [Satz](#satz)
+
+<!-- /TOC -->
+
 ## Aufgaben
 $a_k$ ist eine Folge:
 

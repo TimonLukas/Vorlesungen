@@ -116,9 +116,7 @@ Siehe 5.2 $\rightarrow$ nicht möglich
 
 ## 2.2 Reihen
 Wir versuchen
-$$
-  \sum_{k = 0}^{\infty} a_k \qquad ,a_k \in \mathbb{R}
-$$
+$$\sum_{k = 0}^{\infty} a_k \qquad ,a_k \in \mathbb{R}$$
 einen Wert zuzuordnen.
 ### Beispiele
 1.
