@@ -165,5 +165,191 @@ $$
 
 ## Integration durch Substitution
 $$
+\int_a^bf(\varphi(t))\varphi'(t)t = \int_{\varphi(a)}^{\varphi(b)}f(x)dx
+$$
+### Skizze
+$F$ sei Stammfunktion von $f$  
+$F'$ = f
+$$
+\begin{align}
+F(\varphi(t))' &= F'(\varphi(t)) * \varphi'(t) \\
+&= f(\varphi(t)) * \varphi'(t)
+\end{align}
+$$
 
+$$
+\begin{align}
+\int_a^bf(\varphi(t)) * \varphi'(t)dt &= F(\varphi(b)) - F(\varphi(a)) = \int_{\varphi(a)}^{\varphi(b)}f(x)dx
+\end{align}
+$$
+
+## 6. Vektorräume
+### Definition
+$V$ ist ein Vektorraum, und seine Elemente $v \in V$ sind Vektoren, wenn
+1. $v + w$ rechenbar ist $\forall \; v, w \in V$
+2. $\lambda * v$ rechenbar ist $\forall \; v \in V, \; \forall \; \lambda \in \mathbb{R}$
+3. $\lambda(\mu * v) = \lambda \mu v \; \forall \; v \in V, \; \forall \; \lambda, \mu \in \mathbb{R}$
+4. $(\lambda + \mu) * v = \lambda v + \mu v \; \forall \; v \in V, \; \forall \; \lambda, \mu \in \mathbb{R}$
+5. $\lambda (v + w) = \lambda v + \lambda w \; \forall \; v, w \in V, \; \forall \; \lambda \in \mathbb{R}$
+6. $1 * v = v$
+
+### Skizze
+$$
+\begin{align}
+&V = \mathbb{R}^n \\
+&v = \begin{bmatrix}
+v_1 \\
+v_2 \\
+v_3 \\
+\ldots \\
+v_n
+\end{bmatrix} \qquad v_i \in \mathbb{R} \\
+&\mathbb{R}^3 = \begin{bmatrix}
+v_1 \\
+v_2 \\
+v_3
+\end{bmatrix} \qquad z. B. v = \begin{bmatrix}
+1 \\
+3 \\
+-7
+\end{bmatrix}
+\end{align}
+$$
+
+### Beispiele
+#### 1.
+$$
+\begin{align}
+v + w = \begin{bmatrix}
+v_1 \\
+v_2 \\
+\ldots \\
+v_n
+\end{bmatrix} + \begin{bmatrix}
+w_1 \\
+w_2 \\
+\ldots \\
+w_n
+\end{bmatrix} := \begin{bmatrix}
+v_1 + w_1 \\
+v_2 + w_2 \\
+\ldots \\
+v_n + w_n
+\end{bmatrix}
+\end{align}
+$$
+#### 2.
+$$
+\begin{align}
+&\lambda * v = \lambda * \begin{bmatrix}
+v_1 \\
+v_2 \\
+\ldots \\
+v_n
+\end{bmatrix} := \begin{bmatrix}
+\lambda v_1 \\
+\lambda v_2 \\
+\ldots \\
+\lambda v_n
+\end{bmatrix}
+\end{align}
+$$
+
+### Skizze
+$v = \mathbb{P}_2$: Raum der Polynome der Ordnung $\leq 2$.
+$$
+\begin{align}
+&p_1 = a_1x^2 + a_2x + a_3 \\
+&p_2 = b_1x^2 + b_2x + b_3 \\
+&p_1 + p_2 = (a_1 + b_1) x^2 + (a_2 + b_2) x + a_3 + b_3 \\
+& \lambda * p_1 = \lambda a_1x^2 + \lambda a_2x + \lambda a_3
+\end{align}
+$$
+
+### Definition Länge
+Die Länge eines Vektors $v \in \mathbb{R}^n$ ist
+$$
+\lvert|v\rvert| := \sqrt{v_1^2 + v_2^2 + \ldots + v_n^2}
+$$
+
+Dies ist die **euklidische Norm** des Vektors.  
+Die Länge ist **eine** Norm.  
+Normen gibt es **viele**.
+
+### Beispiele
+#### 3.
+$$
+\begin{align}
+&V = \mathbb{R}^1 \\
+&v = v_1 \\
+&v + w = v_1 + w_1 \\
+&\lambda * v = \lambda * v_1 \\
+&\lvert|v\rvert| = \sqrt{v_1^2} = \lvert v_1\rvert
+\end{align}
+$$
+
+### Definition
+Sei $V$ ein Vektorraum und $v_1, \ldots, v_n \in V$. ein Element $v \in V$ heißt Linearkombination von $v_1, \ldots, v_n$, wenn es $\alpha_1, \ldots, \alpha_n \in \mathbb{R}$ gibt mit
+$$V = \alpha_1 v_1 + \alpha_2 * v_2 + \ldots + \alpha_n * v_n$$.
+
+### Beispiele
+$$
+\begin{align}
+&v_1 = \begin{bmatrix}
+1 \\
+0 \\
+0
+\end{bmatrix} \\
+&v_2 = \begin{bmatrix}
+1 \\
+0 \\
+2
+\end{bmatrix} \\
+&v = \begin{bmatrix}
+4 \\
+0 \\
+8
+\end{bmatrix}
+\end{align}
+$$
+ist Linearkombination von $v_1, v_2$
+$$
+v = 4 * v_2 + 0 * v_1 \qquad \alpha_1 = 0, \alpha_2 = 4
+$$
+
+$w = \begin{bmatrix}6\\ 0\\ 8\end{bmatrix}$ ist Linearkombination von $v_1, v_2$
+$$
+w = 4 * v_2 + 2 * v_1 \qquad \alpha_1 = 2, \alpha_2 = 4
+$$
+
+$z = \begin{bmatrix}1\\ 1 \\ 1\end{bmatrix}$ ist **keine** Linearkombination von $v_1, v_2$
+
+### Definition
+Ist $V$ ein Vektorraum und $S \subseteq V$, dann ist $<S>$ die Menge aller endlichen Linearkombination von Elementen aus S. $<S>$ heißt auch Erzeugnis.
+
+### Beispiele
+$$
+\begin{align}
+&V = \mathbb{R}^3 \\
+&S = \left\{\begin{bmatrix}1\\ 0\\ 0\end{bmatrix}, \begin{bmatrix}1\\ 1\\ 0\end{bmatrix}\right\} \\
+&<S> = \left\{7 * \begin{bmatrix}1\\ 0\\ 0\end{bmatrix} - 3 * \begin{bmatrix}1\\ 1\\ 0\end{bmatrix}, 2 * \begin{bmatrix}1\\ 0\\ 0\end{bmatrix} + 2 * \begin{bmatrix}1\\ 1\\ 0\end{bmatrix}, \ldots\right\}
+\end{align}
+$$
+
+### Definition
+Sei $V$ ein Vektorraum und $S \leq V$, $S$ heißt **linear unabhängig**, falls der Nullvektor $\begin{bmatrix}0\\ 0\\ \ldots \\ 0\end{bmatrix}$ nur in trivialer Weise als endliche Linearkombination von $n \geq 1$ verschiedene Vektoren aus dargestellt werden kann; d. h. sind $v_1, \ldots, v_n \in S$ verschiedene $\lambda_1, \ldots, \lambda_n \in \mathbb{R}$
+
+$$
+\vec{0} = \sum_{k = 1}^n \lambda_k v_k \Rightarrow \lambda_1 = \lambda_2 = \ldots \lambda_n = 0
+$$
+
+### Skizze
+Linear abhängig:
+$$
+\begin{bmatrix}1\\ 2\\ 1\end{bmatrix} = \begin{bmatrix}1\\ 0\\ 1\end{bmatrix} + 2 * \begin{bmatrix}0\\ 1\\ 0\end{bmatrix} \\
+\left\{\begin{bmatrix}1\\ 2\\ 1\end{bmatrix}, \begin{bmatrix}1\\ 0\\ 1\end{bmatrix}, \begin{bmatrix}0\\ 1\\ 0\end{bmatrix}\right\}
+$$
+ist linear abhängig.
+$$
+\vec{0} = 1 * \begin{bmatrix}1\\ 2\\ 1\end{bmatrix} - 1 * \begin{bmatrix}1\\ 0\\ 1\end{bmatrix} - 2 * \begin{bmatrix}0\\ 1\\ 0\end{bmatrix}
 $$
