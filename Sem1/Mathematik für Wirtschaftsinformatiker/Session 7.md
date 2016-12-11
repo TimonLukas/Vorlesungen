@@ -325,7 +325,7 @@ $$
 $z = \begin{bmatrix}1\\ 1 \\ 1\end{bmatrix}$ ist **keine** Linearkombination von $v_1, v_2$
 
 ### Definition
-Ist $V$ ein Vektorraum und $S \subseteq V$, dann ist &lt;$S$&rt; die Menge aller endlichen Linearkombination von Elementen aus S. &lt;$S$&rt; heißt auch **Erzeugnis**.
+Ist $V$ ein Vektorraum und $S \subseteq V$, dann ist &lt;$S$&gt; die Menge aller endlichen Linearkombination von Elementen aus S. &lt;$S$&gt; heißt auch **Erzeugnis**.
 
 ### Beispiele
 $$
