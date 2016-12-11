@@ -15,4 +15,15 @@
 |Intensives Pipelining|**Pipelining**|Kein oder wenig Pipelining|
 |Festverdrahtete Hardware|**Ausführung von Instruktionen**|Mikroprogramme|
 |Instruktionen mit fester Länge|**Format**|Variable Länge|
-|Code weniger kompakt|**Codeform**|Kompakter Code| 
+|Code weniger kompakt|**Codeform**|Kompakter Code|
+
+### Beispiel: Rechenwerk
+* Zwei Eingaberegister
+  * Operand 1
+  * Operand 2
+* Ein Ausgaberegister
+* Vier Zwischenspeicher
+  * Zero Bit: Zeigt an, ob Ergebnis &ne; 0
+  * Sign Bit: Vorzeichen
+  * Carry Bit: Übertrag
+  * Overflow Bit: Zahlenbereich überschritten
