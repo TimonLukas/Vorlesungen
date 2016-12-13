@@ -332,7 +332,7 @@ $$
 \begin{align}
 &V = \mathbb{R}^3 \\
 &S = \left\{\begin{bmatrix}1\\ 0\\ 0\end{bmatrix}, \begin{bmatrix}1\\ 1\\ 0\end{bmatrix}\right\} \\
-&<S> = \left\{7 * \begin{bmatrix}1\\ 0\\ 0\end{bmatrix} - 3 * \begin{bmatrix}1\\ 1\\ 0\end{bmatrix}, 2 * \begin{bmatrix}1\\ 0\\ 0\end{bmatrix} + 2 * \begin{bmatrix}1\\ 1\\ 0\end{bmatrix}, \ldots\right\}
+&\text{Sptize Klammer }S\text{ Spitze Klammer} = \left\{7 * \begin{bmatrix}1\\ 0\\ 0\end{bmatrix} - 3 * \begin{bmatrix}1\\ 1\\ 0\end{bmatrix}, 2 * \begin{bmatrix}1\\ 0\\ 0\end{bmatrix} + 2 * \begin{bmatrix}1\\ 1\\ 0\end{bmatrix}, \ldots\right\}
 \end{align}
 $$
 
