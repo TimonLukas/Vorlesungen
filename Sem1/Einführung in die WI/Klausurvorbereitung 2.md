@@ -95,3 +95,84 @@
 * Mostly about predictions
 * Probabilities based on math
 * Improve themselves over time by searching for most valuable signals and patterns
+
+### Types of Big Data
+* Traditional enterprise data
+	* Customer information
+	* Operations data
+	* General ledger data
+* Machine-generated/sensor data
+	* Smart meters
+	* Manufacturing sensors
+	* Automobils
+	* Airplane engines
+* Social data
+	* Customer feedback
+	* Twitter
+	* Facebook
+* Images
+	* Captured by cameras
+
+### Leveraging Big Data
+* Creating transparency
+* Enabling experimentation
+* Segmenting population to customize actions
+* Replacing/supporting human decision making with algorithms
+* Innovating new business models, products, services
+* Organizations can analyze far more data
+
+## Database Management Systems
+* Set of programs
+* Provide users with tools to add, acces, modify, analyze data
+* Data is stored in a single locatoin
+* Allow effective and efficient data management
+* Accessing via query and reporting tools, or a specific application
+* Provides mechanisms to
+	* Maintain stored data
+	* Manage security and user access
+	* Recover information on system failure
+
+## File Management Systems vs Database Management Systems
+* File Management Systems
+	* Information silos, independent systems
+	* No overall planning
+	* Each application requires own data
+	* Inconsistent
+* Database Management Systems
+	* One set of software programs
+	* Provides all users with access to all data
+	* Minimizes several data problems
+		* Redundancy
+		* Isolation
+		* Inconsistency
+	* Maximizes several data possibilities
+		* Security
+		* Integrity
+		* Independence
+
+## Explicit vs Tacit Knowledge
+* Explicit knowledge
+	* Objective, rational, technical
+	* Consists of policies, procedures etc
+	* Is codified (documented)
+	* Can be transferred
+* Tacit knowledge
+	* Subjective, experiential
+	* Experience, insights, know-how, trade secrets, skill sets
+	* Unstructured, difficult to codify
+	* Costly to transfer and highly personal
+
+## Knowledge Management
+* Process helping to manipulate important knowledge
+* Allows organizations to make the most productive use of its accumulated knowledge
+
+## Knowledge Management Systems
+* Using modern information technologies to systematize, enhance, and expedite intra- and interfirm knowledge management
+
+### KMS Cycle
+* Create
+* Capture
+* Refine
+* Store
+* Manage
+* Disseminate
