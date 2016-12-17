@@ -1,21 +1,20 @@
 # Klausurvorbereitung 2
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Klausurvorbereitung 2](#klausurvorbereitung-2)
-	- [Data, Information, Knowledge](#data-information-knowledge)
-		- [Data](#data)
-		- [Information](#information)
-		- [Knowledge](#knowledge)
-	- [Difficulties in managing data](#difficulties-in-managing-data)
-	- [Data governance](#data-governance)
-		- [Master Data Management](#master-data-management)
-		- [Master Data vs. Transaction Data](#master-data-vs-transaction-data)
-			- [Master Data](#master-data)
-			- [Transaction Data](#transaction-data)
-		- [Sources of data collection in organizations](#sources-of-data-collection-in-organizations)
-	- [Big data](#big-data)
-		- [General information](#general-information)
+- [Data, Information, Knowledge](#data-information-knowledge)
+	- [Data](#data)
+	- [Information](#information)
+	- [Knowledge](#knowledge)
+- [Difficulties in managing data](#difficulties-in-managing-data)
+- [Data governance](#data-governance)
+	- [Master Data Management](#master-data-management)
+	- [Master Data vs. Transaction Data](#master-data-vs-transaction-data)
+		- [Master Data](#master-data)
+		- [Transaction Data](#transaction-data)
+	- [Sources of data collection in organizations](#sources-of-data-collection-in-organizations)
+- [Big data](#big-data)
+	- [General information](#general-information)
 
 <!-- /TOC -->
 
