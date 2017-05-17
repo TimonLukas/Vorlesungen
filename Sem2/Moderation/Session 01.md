@@ -56,6 +56,7 @@
 ## Kommunikationsmodelle
 
 ### Das erweiterte Kommunikationsmodell
+* Übermittlung einer Nachricht mit verbalen und nonverbalen Aussagen
 * Mögliche Probleme
   * Fremdwörter oder Fachbegriffe
   * Unklare Ausdrucksweise
