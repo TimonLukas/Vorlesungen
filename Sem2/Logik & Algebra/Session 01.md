@@ -210,7 +210,7 @@ $$
 
 #### Potenzmenge
 ##### Definition
-* Sei $M$ eine (endliche) Menge. $p(M)$ ist die **Potenzmenge** von $M$, dann ist die Menge allter Teilmengen von $M$
+Sei $M$ eine (endliche) Menge. $p(M)$ ist die **Potenzmenge** von $M$, dann ist die Menge allter Teilmengen von $M$
 $$
 \begin{align}
 M = &\{a, b, c\} \\
