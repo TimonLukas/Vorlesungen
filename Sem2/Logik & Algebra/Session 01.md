@@ -89,7 +89,7 @@ $$
 $$
 \begin{align}
 M &= \{x\;\vert\;x \text{ ist natürliche Zahl und gerade}\}\\
-&= \{x\;\vert\;x \in \mathbb{N} und \frac{x}{2} \in \mathbb{N}\}
+&= \{x\;\vert\;x \in \mathbb{N} \text{ und } \frac{x}{2} \in \mathbb{N}\}
 \end{align}
 $$
 ($\in$ &rarr; Wenn $x$ Element von $N$ ist &rarr; $x \in N$)
