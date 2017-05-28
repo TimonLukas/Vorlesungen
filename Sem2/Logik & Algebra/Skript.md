@@ -163,13 +163,13 @@ $M = \{a, b, c\}$; Man liste alle Teilmengen von $M$ auf:
 |$\{a, b, c\}$                  |1 TM mit 3 Elementen |
 
 ##### Anzahl der Elemente einer Teilmenge
-* Der Binomialkoeffizient $\binom{n}{k}$ sagt aus, wie viele verschiedene $k$-elementige Teilmengen eine $n$-elementige Menge hat:
+Der Binomialkoeffizient $\binom{n}{k}$ sagt aus, wie viele verschiedene $k$-elementige Teilmengen eine $n$-elementige Menge hat:
 
 $$
 \binom{n}{k} = \frac{n!}{k!(n - k)!}
 $$
 
-* Das PASCALsche Zahlendreieck sind exakt die Binomialkoeffizienten:
+Das PASCALsche Zahlendreieck sind exakt die Binomialkoeffizienten:
 $$
 \binom{n}{k} = \binom{n - 1}{k - 1} + \binom{n - 1}{k}
 $$
