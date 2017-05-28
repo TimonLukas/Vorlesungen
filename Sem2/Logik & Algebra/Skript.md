@@ -179,7 +179,7 @@ $$
 ##### Definition
 * Die **Potenzmenge** ist die Menge aller Teilmengen einer Menge
 * Sei $M$ eine (endliche) Menge
-* $p(M)$ ist die **Potenzmenge** von $M$:
+$p(M)$ ist die **Potenzmenge** von $M$:
 $$
 \begin{align}
 M =& \{a, b, c\}\\
@@ -221,12 +221,12 @@ Man gebe in jedem Fall an, ob $x \in M$, $x \subseteq M$, beides oder keins gilt
 
 |Aufgabe                                          |Ergebnis     |Begründung|
 |-------------------------------------------------|-------------|----------|
-|$x = \{1\}, M = \{1, 2, 3\}$                     |$x \subset M$|$x$ ist eine Menge von Zahlen mit dem Element $1$. $M$ ist ebenfalls eine Menge von Zahlen mit den Elementen $1, 2, 3$. Da $1 \in x \land 1 \in M$, ist $x \subseteq M$. Da $2 \in M \land 2 \notin x$, ist $x \subset M$.|
-|$x = \{1\}, M = \big\{\{1\}, \{2\}, \{3\}\big\}$ |$x \in M$    |Die Elemente von $M$ sind die Mengen $\{1\}, \{2\}, \{3\}$. Da $x = \{1\}$, ist $x \in M$.|
-|$x = \{1\}, M = \big\{1, 2, \{1, 2\}\big\}$      |$x \subset M$|$x \subset M$ wie 1.|
-|$x = \{1, 2\}, M = \big\{1, 2, \{1, 2\}\big\}$   |Beides       |Die Teilmengen von $M$ sind: $p(M) = \big\{\emptyset, \{1\}, \{2\}, \{\{1, 2\}\}, \{1, 2\}, \{1, \{1, 2\}\}, \{2, \{1, 2\}\}, \{1, 2, \{1, 2\}\}\big\}$|
-|$x = \{1\}, M = \big\{\{1, 2\}, 3\big\}$         |Keins        ||
-|$x = 1, M = \big\{\{1\}, \{2\}, \{3\}\big\}$     |Keins        ||
+|$x = \{1\}$<br />$M = \{1, 2, 3\}$                     |$x \subset M$|$x$ ist eine Menge von Zahlen mit dem Element $1$. $M$ ist ebenfalls eine Menge von Zahlen mit den Elementen $1, 2, 3$. Da $1 \in x \land 1 \in M$, ist $x \subseteq M$. Da $2 \in M \land 2 \notin x$, ist $x \subset M$.|
+|$x = \{1\}$<br />$M = \big\{\{1\}, \{2\}, \{3\}\big\}$ |$x \in M$    |Die Elemente von $M$ sind die Mengen $\{1\}, \{2\}, \{3\}$. Da $x = \{1\}$, ist $x \in M$.|
+|$x = \{1\}$<br />$M = \big\{1, 2, \{1, 2\}\big\}$      |$x \subset M$|$x \subset M$ wie 1.|
+|$x = \{1, 2\}$<br />$M = \big\{1, 2, \{1, 2\}\big\}$   |Beides       |Die Teilmengen von $M$ sind: $p(M) = \big\{\emptyset, \{1\}, \{2\}, \{\{1, 2\}\}, \{1, 2\}, \{1, \{1, 2\}\}, \{2, \{1, 2\}\}, \{1, 2, \{1, 2\}\}\big\}$|
+|$x = \{1\}$<br />$M = \big\{\{1, 2\}, 3\big\}$         |Keins        ||
+|$x = 1$<br />$M = \big\{\{1\}, \{2\}, \{3\}\big\}$     |Keins        ||
 
 ##### Leere Menge
 $$
