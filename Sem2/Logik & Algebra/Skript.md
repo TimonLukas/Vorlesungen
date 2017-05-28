@@ -177,8 +177,7 @@ $$
 
 #### Potenzmengen
 ##### Definition
-Die **Potenzmenge** ist die Menge aller Teilmengen einer Menge. Sei $M$ eine (endliche) Menge
-$p(M)$ ist die **Potenzmenge** von $M$:
+Die **Potenzmenge** ist die Menge aller Teilmengen einer Menge. Sei $M$ eine (endliche) Menge, dann ust $p(M)$ die **Potenzmenge** von $M$:
 $$
 \begin{align}
 M =& \{a, b, c\}\\
