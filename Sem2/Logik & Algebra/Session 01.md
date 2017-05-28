@@ -214,7 +214,7 @@ Sei $M$ eine (endliche) Menge. $p(M)$ ist die **Potenzmenge** von $M$, dann ist 
 $$
 \begin{align}
 M = &\{a, b, c\} \\
-&p(M) = \big\{\emptyset, \{a\}, \{b\}, \{c\}, \{a, b\}, \{a, c\}, \{b, c\}, \{a, b, c\}\big\}
+p(M) = &\big\{\emptyset, \{a\}, \{b\}, \{c\}, \{a, b\}, \{a, c\}, \{b, c\}, \{a, b, c\}\big\}
 \end{align}
 $$
 
