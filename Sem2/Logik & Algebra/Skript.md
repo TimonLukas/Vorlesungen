@@ -190,8 +190,10 @@ $$
 
 Wenn $M$ $n$ Elemente hat, dann hat die Potenzmenge $p(M)$
 $$
-\binom{n}{0} + \binom{n}{1} + \binom{n}{2} + \binom{n}{3} + \ldots + \binom{n}{n}\\
-= \sum^n_{k = 0} \binom{n}{k} = 2^n
+\begin{align}
+&\binom{n}{0} + \binom{n}{1} + \binom{n}{2} + \binom{n}{3} + \ldots + \binom{n}{n}\\
+&= \sum^n_{k = 0} \binom{n}{k} = 2^n
+\end{align}
 $$
 Elemente. Das gilt aufgrund des Binomialtheorems:
 $$
