@@ -2,9 +2,9 @@
 
 <!-- toc orderedList:0 depthFrom:2 depthTo:6 -->
 
-* [Session 01](#session-01)
-  * [Vorlesungsziele](#vorlesungsziele)
+* [Vorlesungsziele](#vorlesungsziele)
 
 <!-- tocstop -->
 
 ## Vorlesungsziele
+* 
