@@ -261,6 +261,7 @@ $$
 \cup^n_{i = 1} M_i = M_1 \cup M_2 \cup \ldots \cup M_n
 $$
 für die Vereinigung mehrerer Mengen.
+
 ##### Beispiel
 $$
 \begin{align}
