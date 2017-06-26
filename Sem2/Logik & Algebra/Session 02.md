@@ -64,7 +64,7 @@ $$
 **Rechenregeln**:
 1. $M \cap M = M$ (Idempotenzgesetz)
 2. $M_1 \cap M_2 = M_2 \cap M_1$ (Kommutativgesetz)
-3. $M_1 \cap (M_2 \cap M_3) = (M_1 \cap M_2) \cap M_3 (Assoziativgesetz)
+3. $M_1 \cap (M_2 \cap M_3) = (M_1 \cap M_2) \cap M_3$ (Assoziativgesetz)
 4. $M \cap \emptyset = \emptyset$
 
 
