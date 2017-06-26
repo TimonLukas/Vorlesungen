@@ -44,6 +44,7 @@ Es gelten folgende Rechenregeln (müssen eigentlich bewiesen werden):
 
 Oft ist es hilfreich, sich die Mengenoperationen mit Hilfe von **VENN**-Diagrammen klarzumachen.
 
+
 #### Durchschnitt
 **Definition**:
 a) Der Durchschnitt zweier Mengen $M_1$ und $M_2$ ist
@@ -66,12 +67,14 @@ $$
 3. $M_1 \cap (M_2 \cap M_3) = (M_1 \cap M_2) \cap M_3 (Assoziativgesetz)
 4. $M \cap \emptyset = \emptyset$
 
+
 #### Distributivgesetze
 Es gelten die folgenden **Distributivgesetze**:
 $$
 M_1 \cup (M_2 \cap M_3) = (M_1 \cup M_2) \cap (M_1 \cup M_3)\\
 M_1 \cap (M_2 \cup M_3) = (M_1 \cap M_2) \cup (M_1 \cap M_3)
 $$
+
 
 ### Anzahl der Elemente einer Menge
 Man bezeichnet mit $| M |$ die Anzahl der Elemente der Menge $M$. Dies nennt man auch **Kardinalität**.
@@ -80,6 +83,7 @@ Sind $M_1, M_2$ endliche Mengen, dann ist:
 $$
 |M_1 \cup M_2| = |M_1| + |M_2| - |M_1 \cap M_2|
 $$
+
 
 ### Siebformel
 **Beispiel**:
@@ -94,6 +98,7 @@ M_1 \cup M_2 = \{1, 2, 3, 4, 6, 7\}; |M_1 \cup M_2| = 6\\
 M_1 \cap M_2 = \{3, 4\}\\
 \Rightarrow |M_1 \cup M_2| = |M_1| + |M_2| - |M_1 \cup M_2|
 $$
+
 
 ### Satz von Sylvester
 Seien $M_1, M_2, \ldots, M_n n$ Mengen (endlich); dann gilt:
@@ -160,6 +165,7 @@ $$
 k_1 - k_2 + k_3 - k_4 = 18 - 14 + 6 - 1 = 9
 $$
 
+
 ### Differenzmenge
 Seien $M_1, M_2$ zwei Mengen; dann ist $$
 M_1 \backslash M_2 = \{x | x \in M_1 \text{ und } x \notin M_2\}
@@ -180,6 +186,7 @@ M \backslash \emptyset = M\\
 \emptyset \backslash M = \emptyset
 $$
 
+
 ### Komplementmenge
 Sei $M_1$ Teilmenge von $M$. Das Komplement $\overline{M_1}$ von $M_1$ bezüglich der Obermenge $M$ sind alle Elemente von $M$, die nicht $M_1$ sind:
 $$
@@ -194,6 +201,7 @@ M_1 \cap \overline{M_1} = \emptyset\\
 \overline{\emptyset} = M\\
 \overline{(\overline{M_1})} = M_1
 $$
+
 
 ### Satz (De Morgan)
 Seien $M_1, M_2$ zwei Mengen, dann gilt:
