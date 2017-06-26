@@ -275,6 +275,7 @@ $$
 ist die Menge der **geordneten Paare**.
 
 **Beispiel**:
+
 $$
 M_1 = \{1, 2\}, M_2 = \{a, b\}\\
 M_1 \times M_2 = \{(1, a), (1, b), (2, a), (2, b)\}
@@ -286,19 +287,21 @@ M_1 \times \ldots \times M_n = \{(m_1, m_2, \ldots m_n) | m_i \in M_i (i = 1, \l
 $$
 
 **Beispiel**:
+
 $$
 \mathbb{R}^2 = \mathbb{R} \times \mathbb{R} = \{(x, y) | x \in \mathbb{R}, y \in \mathbb{R}\}
 $$
 
 **Übung** (**WINK MIT ZAUNPFAHL**)
+
 $M_1 = \{-2, -1, 0\}; M_2 = \{1, 2\}$
 
 |Term                              |Ergebnis|
 |----------------------------------|--------|
-|$\vert M_1 \times M_2\vert$       |$6$
-|$\vert p(M_1)\vert$               |$8$
-|$\vert p(M_1) \times p(M_2)\vert$ |$32$
-|$\vert p(M_1 \times M_2)\vert$    |$64$
+|$\vert M_1 \times M_2\vert$       |$6$     |
+|$\vert p(M_1)\vert$               |$8$     |
+|$\vert p(M_1) \times p(M_2)\vert$ |$32$    |
+|$\vert p(M_1 \times M_2)\vert$    |$64$    |
 
 Wahr oder falsch?
 
