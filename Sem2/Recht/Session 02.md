@@ -35,11 +35,6 @@
     * Eigentumsbegriff entspricht dem des Sachenrechts
     * Verletzung kann durch Sachentziehung erfolgen
 
-#### Weiterfresserschäden
-* Mangel ist funktional begrenz und einfach behebbar
-* Eigentumsverletzung tritt erst später ein
-* Gesamte Sache wird ersetzt
-
 #### Beeinträchtigung des Sachgebrauchs
 * Eigentumsverletzung liegt nur vor, wenn Sachgebrauch vollkommen aufgehoben ist
 * Teilweise zählt nicht
@@ -130,86 +125,103 @@
 ### Produkthaftung, Produzentenhaftung
 * §1 I ProdHaftG begründet eine verschuldensunabhängige Gefährdungshaftung des Herstellers von Produkten für Rechtsgutverltezungen bei den Verwendern des Produktes
 * Voraussetzungen für Anspruch
-  * **Anwendbarkeit des ProdHaftG**
-    * Neben den allgemeinen deliktischen Anspruchsgrundlagen anwendbar
-    * Wird durch Spezialregelungen in §84 AMG verdrängt
-    * Vertraglicher Ausschluss der Haftung nach ProdHaftG ist unwirksam
-  * **Rechtsgutverletzung**
-    * Nur folgende Rechtsgüter geschützt
-      * Leben, Körper und Gesundheit
-      * Eigentum
-      * Nur Schäden an anderen sachen als an fehlerhaften Produkten ersetzt
-      * Weiterfresserschäden werden nicht erfasst
-  * **Produkt im Sinne von §s ProdHaftG**
-    * Produkt ist legaldefiniert
-    * Industriell oder handwerklich hergestellte bewegliche Sachen gleich welchen Aggregatzustandes, und Elektrizität
-    * Massenhafte Fertigung unwichtig
-  * **Produktfehler**
-    * Produkt ist fehlerhaft, wenn hinsichtlich Konstruktion, Fabrikation und ggfs. beizugebender Instruktion nicht die Sicherheit für die von §1 I ProdHaftG geschützten Güter bietet, die unter Berücksichtigung aller Umstände berechtigterweise ewartet werden
-    * Was erwartet werden kann, ist objektiv zu ermitteln, nuter Berücksichtigung folgender Gesichtspunkte:
-      * Preis des Produktes
-      * Darbeitung des Produktes
-      * Bestimmungsgemäßer Gebrauch durch den Nutzer
-      * "Typ" des Benutzers (Fachmann oder Laie)
-      * Spätere Produktverbesserungen machen Vorläufer nicht fehlerhaft
-      * Produkt muss aktuellem Stand von Wissenschaft und Technik entsprechen
-      * Muss anerkannten Regeln des faches widersprechen
-  * **Haftungsbegründende Kausalität**
-    * Fehler muss für die eingetretene Rechtsgutverletzung **kausal** sein
-    * Nur Äquivalenz-, aber nicht **Adäquanztheorie** findet Anwendung (weite Kausalität, nicht dadurch eingeschränkt, mit was man rechnen konnte und mit was nicht)
-    * Vom Schutzzweck sind alle äquivalent kausal verursachten Rechtsgutverletzungen umfasst
-  * **Hersteller**
-    * Hersteller eines Produkts ist zunächst, wer als Unternehmer das Endprodukt, einen Grundstoff dazu oder ein Teilprodukt tatsächlich hergestellt hat
-    * Teilprodukt ist ein Produkt, das bereits hergestellt wurde, aber nicht für den Endverbraucher bestimmt ist
-    * Grundstoff ist nur das Material, aus dem ein Teil- oder Endprodukt hergestellt wird
-    * Hersteller von Teilprodukten oder Grundstoffen haften nur für die Fehlerfähigkeit ihrer Teile
-  * **Ausschluss der Produkthaftung**
-    * Nach §1 II ProdHaftG ist die Haftung des Herstellers in folgenden Fällen ausgeschlossen
-      * Wenn er das Produkt nicht willentlich in Verkehr gebracht hat
-      * Wenn das Produkt zur Zeit des Inverkehrbringens noch nicht fehlerhaft war
-        * Objektive Fehlerhaftigkeit ist wichtig
-      * Wenn die Herstellung oder der Vertrieb nicht zum Zweck der Gewinnerzielung und auch nicht beruflich erfolgte
-      * Wenn das Produkt dazu zwingenden Rechtsvorschriften entsprach, damit der Hersteller sich nicht zwischen Ungehorsam und Produkthaftung entscheiden muss
-      * Wenn der Fehler in dem Zeitpunkt des Inverkehrbringens nach dem Stand von Wissenschaft und Technik nicht erkannt werden konnte
-      * Der Zulieferer kann sich nach §1 III ProdHaftG von der Haftung befreien, indem er nachweist, dass die Verletzung aufgrund eines Konstruktions- oder Instruktionsfehlers des Endherstellers geschehen ist
-    * **Rechtsfolge des Anspruchs**
-      * Grundsätzlich Schadensersatz nach den §§249 ff BGB
-      * Nach §11 ProdHaftG trifft den Geschädigten bei Sachschäden eine Selbstbeteiligung von 500€
-      * Für Mitverschulden gilt gem. §6 ProdHaftG §254 BGB entsprechend, wobei der Geschädigte sich auc hdas Verschulden seines Sachbewahrungsgehilfen zurechnen lassen muss
-      * Bei Gesundheits- und Körperverletzung sowie bei Tötung gelten die §§7 ff. ProdHaftG (entsprechen im wesentlichen §§842 ff. BGB)
-      * Für Körperschäden gilt Haftungshöchstgrenze des §10 ProdHaftG (maximal 85 Mio. für Schäden aus einem Produkt oder aus gleichen Produkten)
-    * **Verjährung/Ausschlussfrist**
-      * Verjährt gem. §12 I ProdHaftG in drei Jahren
-      * Frist ausgelöst durch Kennen müssen von Schaden, Fehler und Haftungspflichtigem
-      * Verjährung während Verhandlungen über den Schadensersatz gehemment
-      * Ausschlussfrist: 10 Jahre nach Inverkehrbringen erlöschen rechtlich alle Ansprüche aus dem ProdHaftG
-    * **§823 II BGB**
-      * Schädiger haftet bei Verletzung eines Schutzgesetztes
-      * Meisten Gesetzte bieten irgendeine Art Schutz &rarr; oftmals reicht Verstoß gegen irgendein Gesetz
-      * Voraussetungen
-        * Schutzgesetz: Schutz von Allgemein- und Individualinteressen
-      * Geschädigter muss durch die Norm geschützt sein
-      * Verstoß gegen das Schutzgesetz
-      * Verschulden
-      * Schaden
-      * Schadenszurechnung: Norm musste gerade vor der eingetretenen Gefahr schützen
-    * **§826 BGB**
-      * Wer einen anderen vorsätzlich sittenwidrig schädigt, ist diesem zum Schadensersatz verpflichtet
-      * Vorsatz bezüglich der Umstände, die die Sittenwidrigkeit begründen, reicht aus
-      * Schädiger muss die Sittenwidrigkeit nicht erkennen oder feststellen
-      * Sittenwidrigkeit: Verstoß gegen das Anstandsgefühl aller billig und gerecht denkender
-      * Häufige Fallkonstellationen
-        * Arglistiges Verhalten beim Vertragsschluss
-        * Kollusion zum Nachteil Dritter
-        * Verleitung zum Vertragsbruch
-        * Erteilung wissentlich falscher Auskünfte
-        * Verweigerung eines Vertragsschlusses bei Kontrahierungszwang
-        * Erschleichung eines Titels
-    * **§830 BGB**
-      * Bei mehreren Schädigern oder unbekanntem Schädigen haften mehrere Schädiger nach §840 BGB
-      * Haftung nach §830 I S. 2 BGB kommt nicht mehr in betracht, wenn ein Schädiger auf jeden Fall feststeht
-    * **Deliktische Haftung für das Handeln Dritter**
-      * Der Geschäftsherr haftet für die Handlung seinre Verrichtungsgehilfen, insofern er nicht nachweisen kann, dass er sie ordnungsgemäß ausgesucht und überwacht hat
+#### Anwendbarkeit des ProdHaftG
+* Neben den allgemeinen deliktischen Anspruchsgrundlagen anwendbar
+* Wird durch Spezialregelungen in §84 AMG verdrängt
+* Vertraglicher Ausschluss der Haftung nach ProdHaftG ist unwirksam
+#### Rechtsgutverletzung
+* Nur folgende Rechtsgüter geschützt
+  * Leben, Körper und Gesundheit
+  * Eigentum
+  * Nur Schäden an anderen sachen als an fehlerhaften Produkten ersetzt
+  * Weiterfresserschäden werden nicht erfasst
+#### Produkt im Sinne von §1 II ProdHaftG
+* Produkt ist legaldefiniert
+* Industriell oder handwerklich hergestellte bewegliche Sachen gleich welchen Aggregatzustandes, und Elektrizität
+* Massenhafte Fertigung unwichtig
+#### Produktfehler
+* Produkt ist fehlerhaft, wenn hinsichtlich Konstruktion, Fabrikation und ggfs. beizugebender Instruktion nicht die Sicherheit für die von §1 I ProdHaftG geschützten Güter bietet, die unter Berücksichtigung aller Umstände berechtigterweise ewartet werden
+* Was erwartet werden kann, ist objektiv zu ermitteln, nuter Berücksichtigung folgender Gesichtspunkte:
+  * Preis des Produktes
+  * Darbeitung des Produktes
+  * Bestimmungsgemäßer Gebrauch durch den Nutzer
+  * "Typ" des Benutzers (Fachmann oder Laie)
+  * Spätere Produktverbesserungen machen Vorläufer nicht fehlerhaft
+  * Produkt muss aktuellem Stand von Wissenschaft und Technik entsprechen
+  * Muss anerkannten Regeln des faches widersprechen
+#### Haftungsbegründende Kausalität
+* Fehler muss für die eingetretene Rechtsgutverletzung **kausal** sein
+* Nur Äquivalenz-, aber nicht **Adäquanztheorie** findet Anwendung (weite Kausalität, nicht dadurch eingeschränkt, mit was man rechnen konnte und mit was nicht)
+* Vom Schutzzweck sind alle äquivalent kausal verursachten Rechtsgutverletzungen umfasst
+#### Hersteller
+* Hersteller eines Produkts ist zunächst, wer als Unternehmer das Endprodukt, einen Grundstoff dazu oder ein Teilprodukt tatsächlich hergestellt hat
+* Teilprodukt ist ein Produkt, das bereits hergestellt wurde, aber nicht für den Endverbraucher bestimmt ist
+* Grundstoff ist nur das Material, aus dem ein Teil- oder Endprodukt hergestellt wird
+* Hersteller von Teilprodukten oder Grundstoffen haften nur für die Fehlerfähigkeit ihrer Teile
+#### Ausschluss der Produkthaftung
+* Nach §1 II ProdHaftG ist die Haftung des Herstellers in folgenden Fällen ausgeschlossen
+  * Wenn er das Produkt nicht willentlich in Verkehr gebracht hat
+  * Wenn das Produkt zur Zeit des Inverkehrbringens noch nicht fehlerhaft war
+    * Objektive Fehlerhaftigkeit ist wichtig
+  * Wenn die Herstellung oder der Vertrieb nicht zum Zweck der Gewinnerzielung und auch nicht beruflich erfolgte
+  * Wenn das Produkt dazu zwingenden Rechtsvorschriften entsprach, damit der Hersteller sich nicht zwischen Ungehorsam und Produkthaftung entscheiden muss
+  * Wenn der Fehler in dem Zeitpunkt des Inverkehrbringens nach dem Stand von Wissenschaft und Technik nicht erkannt werden konnte
+  * Der Zulieferer kann sich nach §1 III ProdHaftG von der Haftung befreien, indem er nachweist, dass die Verletzung aufgrund eines Konstruktions- oder Instruktionsfehlers des Endherstellers geschehen ist
+#### Rechtsfolge des Anspruchs
+* Grundsätzlich Schadensersatz nach den §§249 ff BGB
+* Nach §11 ProdHaftG trifft den Geschädigten bei Sachschäden eine Selbstbeteiligung von 500€
+* Für Mitverschulden gilt gem. §6 ProdHaftG §254 BGB entsprechend, wobei der Geschädigte sich auc hdas Verschulden seines Sachbewahrungsgehilfen zurechnen lassen muss
+* Bei Gesundheits- und Körperverletzung sowie bei Tötung gelten die §§7 ff. ProdHaftG (entsprechen im wesentlichen §§842 ff. BGB)
+* Für Körperschäden gilt Haftungshöchstgrenze des §10 ProdHaftG (maximal 85 Mio. für Schäden aus einem Produkt oder aus gleichen Produkten)
+#### Verjährung/Ausschlussfrist
+* Verjährt gem. §12 I ProdHaftG in drei Jahren
+* Frist ausgelöst durch Kennen müssen von Schaden, Fehler und Haftungspflichtigem
+* Verjährung während Verhandlungen über den Schadensersatz gehemment
+* Ausschlussfrist: 10 Jahre nach Inverkehrbringen erlöschen rechtlich alle Ansprüche aus dem ProdHaftG
+#### §823 II BGB
+* Schädiger haftet bei Verletzung eines Schutzgesetztes
+* Meisten Gesetzte bieten irgendeine Art Schutz &rarr; oftmals reicht Verstoß gegen irgendein Gesetz
+* Voraussetungen
+  * Schutzgesetz: Schutz von Allgemein- und Individualinteressen
+* Geschädigter muss durch die Norm geschützt sein
+* Verstoß gegen das Schutzgesetz
+* Verschulden
+* Schaden
+* Schadenszurechnung: Norm musste gerade vor der eingetretenen Gefahr schützen
+#### §826 BGB
+* Wer einen anderen vorsätzlich sittenwidrig schädigt, ist diesem zum Schadensersatz verpflichtet
+* Vorsatz bezüglich der Umstände, die die Sittenwidrigkeit begründen, reicht aus
+* Schädiger muss die Sittenwidrigkeit nicht erkennen oder feststellen
+* Sittenwidrigkeit: Verstoß gegen das Anstandsgefühl aller billig und gerecht denkender
+* Häufige Fallkonstellationen
+  * Arglistiges Verhalten beim Vertragsschluss
+  * Kollusion zum Nachteil Dritter
+  * Verleitung zum Vertragsbruch
+  * Erteilung wissentlich falscher Auskünfte
+  * Verweigerung eines Vertragsschlusses bei Kontrahierungszwang
+  * Erschleichung eines Titels
+#### §830 BGB
+* Bei mehreren Schädigern oder unbekanntem Schädigen haften mehrere Schädiger nach §840 BGB
+* Haftung nach §830 I S. 2 BGB kommt nicht mehr in betracht, wenn ein Schädiger auf jeden Fall feststeht
+#### Deliktische Haftung für das Handeln Dritter
+* Der Geschäftsherr haftet für die Handlung seiner Verrichtungsgehilfen, insofern er nicht nachweisen kann, dass er sie ordnungsgemäß ausgesucht und überwacht hat
+#### Gefährdungshaftung (häufigste Fälle)
+* Halterhaftung
+  * Wenn ein KFZ oder ein Anhänger jemand verletzt wird, muss der Halter den Schaden ersetzen
+* Haftung für Luxustiere: §833 S. 1 BGB
+#### Schadensrecht (Arten des Schadensersatzes)
+* Siehe §§249 ff. BGB
+* Grundsatz ist Gedanke der Naturalrestitution
+  * Herstellung des ursprünglichen Zustandes
+* Wenn Naturalrestitution nicht möglich, Entschädigung durch Geld
+* Nach Differenzmethode wird festgestellt, ob tatsächliche Situation mit hypothetischer übereinstimmt
+
+#### Schadenszurechnung
+* Erfolgt nach **Äquivalenztheorie**
+  * Ursächlich ist jede Bedingung, die nicht hinweggedacht werden kann, ohne dass der konkrete Erfolg entfiele
+* Da Äquivalenztheorie zu weit, wird mittels **Adäquanztheorie** eingeschränkt
+  * Das schädigende Ereignis muss allgemein und nicht nur unter besonders ungewöhnlichen, untypischen Umständen geeignet sein, einen Schaden der eingetretenen Art herbeizuführen
+* Vorteile, die der Geschädigte aus dem Schadensereignis erhält, muss er sich anrechnen lassen
 
 ### Aufbauschema §831 BGB
 * Verrichtungsgehilfe
@@ -220,4 +232,4 @@
   * Keine Exkuplation §831 I S. 2 BGB
 * Sonderproblem: Haftung in Großbetrieben
   * Überwachung aller Mitarbeiter nicht möglich
-  * Ebenfalls Nachweis des G nötig, dass Gehilfen sorgfältig ausgesucht und überwacht wurden
+  * Ebenfalls Nachweis des Chefs nötig, dass Gehilfen sorgfältig ausgesucht und überwacht wurden
