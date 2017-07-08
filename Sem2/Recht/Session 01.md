@@ -1,4 +1,4 @@
-# Session 01
+# Session 01 (Dienst- und Werkvertrag)
 
 <!-- toc orderedList:0 depthFrom:2 depthTo:6 -->
 

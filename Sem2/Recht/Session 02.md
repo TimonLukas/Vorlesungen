@@ -1,4 +1,4 @@
-# Session 02
+# Session 02 (Deliktsrecht)
 
 ## Paragraphen
 * Schadensersatz: §§823 ff. BGB
