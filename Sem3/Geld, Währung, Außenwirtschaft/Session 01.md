@@ -11,9 +11,6 @@
 	* [Verschiedene Geldarten](#verschiedene-geldarten)
 	* [Die Auswahl zur Anwendung der Geldmengenaggregate](#die-auswahl-zur-anwendung-der-geldmengenaggregate)
 	* [Die Motive der Kassenhaltung bei Keynes](#die-motive-der-kassenhaltung-bei-keynes)
-		* [Das Umsatzmotiv](#das-umsatzmotiv)
-		* [Das Vorsichtsmotiv](#das-vorsichtsmotiv)
-		* [Das Spekulationsmotiv](#das-spekulationsmotiv)
 
 <!-- /code_chunk_output -->
 
@@ -84,17 +81,15 @@ Das Problem besteht in der Abgrenzung zwischen dem eigentlichen (Bar-)Geld und a
 * Welche GEldmenge ist für empirische Tests heranzuziehen, wenn bspw. überprüft werden soll, ob Geldmengenausweitungen und Preisniveauanstiege korreliert sind?
 
 ### Die Motive der Kassenhaltung bei Keynes
-#### Das Umsatzmotiv
-
-#### Das Vorsichtsmotiv
-
-#### Das Spekulationsmotiv
-* Das Spekulationsmotiv beschreibt die Absicht, aus einer besseren Erkenntnis der Zukunft als der Markt hat, einen Gewinn zu erzielen
-* Die sich ergebende Spekulationskasse ist nach keynes aus zwei Gründen von der Zinshöhe abhängig
-  * Zum einen steigen die (Opportunitäts-)Kosten der Kassenhaltung mit steigender Höhe es Zinses
-  * Zum anderen richtet sich die Erwartung um so mehr auf sinkende Zinsen (d. h. steigende Wertpapierkurse), je höher das gegenwärtige Zinsniveau ist
-  * Für die Geldnachfrage für Spekulationszwecke ($M_{DL}$) gilt demnach
-  $M_{DL} = M_{DL}(i)$
-* Nach Keynes wird nun die Aufnahmefähigkeit der Spekulationskasse unendlich ("die Zinselastizität der Geldnachfrage wird unendlich elastisch"), wenn eine Art absolute Untegrenze beim Zinsniveau erreicht ist
-* Ist der Zins so niedrig, dass jeder einen Zinsanstieg - und damit fallende Wertpapierkurse - erwartet, dann kauft niemand Wertpapiere, sondern das Geld wird lieber in der Spekulationskasse gehalten
-* Weil in dieser Situation alles von der Notenbank zusätzlich geschaffene Geld in der Spekulationskasse "verschwinden" würde, spricht man von der Keynesschen **Liquiditätsfalle**
+* Das Umsatzmotiv
+* Das Vorsichtsmotiv
+* Das Spekulationsmotiv
+  * Beschreibt die Absicht, aus einer besseren Erkenntnis der Zukunft als der Markt hat, einen Gewinn zu erzielen
+  * Die sich ergebende Spekulationskasse ist nach keynes aus zwei Gründen von der Zinshöhe abhängig
+    * Zum einen steigen die (Opportunitäts-)Kosten der Kassenhaltung mit steigender Höhe es Zinses
+    * Zum anderen richtet sich die Erwartung um so mehr auf sinkende Zinsen (d. h. steigende Wertpapierkurse), je höher das gegenwärtige Zinsniveau ist
+    * Für die Geldnachfrage für Spekulationszwecke ($M_{DL}$) gilt demnach
+    $M_{DL} = M_{DL}(i)$
+  * Nach Keynes wird nun die Aufnahmefähigkeit der Spekulationskasse unendlich ("die Zinselastizität der Geldnachfrage wird unendlich elastisch"), wenn eine Art absolute Untegrenze beim Zinsniveau erreicht ist
+  * Ist der Zins so niedrig, dass jeder einen Zinsanstieg - und damit fallende Wertpapierkurse - erwartet, dann kauft niemand Wertpapiere, sondern das Geld wird lieber in der Spekulationskasse gehalten
+  * Weil in dieser Situation alles von der Notenbank zusätzlich geschaffene Geld in der Spekulationskasse "verschwinden" würde, spricht man von der Keynesschen **Liquiditätsfalle**
