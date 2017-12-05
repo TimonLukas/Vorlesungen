@@ -78,14 +78,14 @@ Das Problem besteht in der Abgrenzung zwischen dem eigentlichen (Bar-)Geld und a
 
 ### Die Auswahl zur Anwendung der Geldmengenaggregate
 * Welche Geldmenge hat die solideste theoretische Fundierung?
-* Welche GEldmenge ist für empirische Tests heranzuziehen, wenn bspw. überprüft werden soll, ob Geldmengenausweitungen und Preisniveauanstiege korreliert sind?
+* Welche Geldmenge ist für empirische Tests heranzuziehen, wenn bspw. überprüft werden soll, ob Geldmengenausweitungen und Preisniveauanstiege korreliert sind?
 
 ### Die Motive der Kassenhaltung bei Keynes
 * Das Umsatzmotiv
 * Das Vorsichtsmotiv
 * Das Spekulationsmotiv
   * Beschreibt die Absicht, aus einer besseren Erkenntnis der Zukunft als der Markt hat, einen Gewinn zu erzielen
-  * Die sich ergebende Spekulationskasse ist nach keynes aus zwei Gründen von der Zinshöhe abhängig
+  * Die sich ergebende Spekulationskasse ist nach Keynes aus zwei Gründen von der Zinshöhe abhängig
     * Zum einen steigen die (Opportunitäts-)Kosten der Kassenhaltung mit steigender Höhe es Zinses
     * Zum anderen richtet sich die Erwartung um so mehr auf sinkende Zinsen (d. h. steigende Wertpapierkurse), je höher das gegenwärtige Zinsniveau ist
     * Für die Geldnachfrage für Spekulationszwecke ($M_{DL}$) gilt demnach
