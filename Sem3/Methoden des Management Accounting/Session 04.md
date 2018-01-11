@@ -12,7 +12,6 @@
 	* [Beispiel Aggregation und Linearisierung bei Sewing United](#beispiel-aggregation-und-linearisierung-bei-sewing-united)
 	* [Statistische Methoden zur Bestimmung von Kostenfunktionen](#statistische-methoden-zur-bestimmung-von-kostenfunktionen)
 		* [Zwei-Punkt-Methode (Hoch-Tief-Methode)](#zwei-punkt-methode-hoch-tief-methode)
-	* [Verfahren zur Ermittlung von Kostenfunktionen](#verfahren-zur-ermittlung-von-kostenfunktionen)
 
 <!-- /code_chunk_output -->
 
@@ -109,5 +108,3 @@ Bestimmung des Achensabschnitts der Kostenfunktion:
 $$
 a = y - bx
 $$
-
-### Verfahren zur Ermittlung von Kostenfunktionen
